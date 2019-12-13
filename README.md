@@ -1,5 +1,6 @@
 # Lists Functions and String handeling
 PART 1
+
 Simulate the effects of the Single Nucleotide Polymorphism that leads to sickle cell genetic disease.
  
 The program identifies and returns the amino acid sequence of the DNA using the
